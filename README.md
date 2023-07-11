@@ -1,7 +1,8 @@
 # Introduction to Visual Media Programming - FinalProject
 김예서 20200365
 
-/
+![image](https://github.com/marivita126/VMP_FinalProject/assets/89694409/d026d690-5f53-44fa-b32c-a93161b26671)
+
 
 ## Introduction
 For my final project for 'Introduction to Visual Media Programming', I made a simple game with a theme of a flowerpot falling down a building. The player's goal is to help and save the flowerpot, so it can land safely on the flowerbed on the floor. In this readme file, I will be going over the game and will be going through features I have implemented.
