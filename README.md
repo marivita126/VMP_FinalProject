@@ -7,7 +7,7 @@ Youtube Link:
 ## Introduction
 For my final project for 'Introduction to Visual Media Programming', I made a simple game with a theme of a flowerpot falling down a building. The player's goal is to help and save the flowerpot, so it can land safely on the flowerbed on the floor. In this readme file, I will be going over the game and will be going through features I have implemented.
 
-/
+![image](https://github.com/marivita126/VMP_FinalProject/assets/89694409/0faca482-5ccd-4086-9d1a-81d668a758f5)
 
 ## Main Features
 1. Player image(flowerpot's image) alters according to the current HP status
@@ -19,6 +19,8 @@ For my final project for 'Introduction to Visual Media Programming', I made a si
     - Once again, the goal for the player is to help the flowerpot to land safely on the flowerbed. On the top right corner, it shows how many meters are left to the ground. So once the player hits 0m, game is cleared. 
 6. Game over & Game Clear Screen
     - There is a screen for both circumstances; game over, game clear. Game over happens when the HP hits 0. Game clear happens when the meter tracker on the top right hits 0m.
+
+
 
 ## Minor Features
 1. Sound FX
