@@ -20,7 +20,7 @@ For my final project for 'Introduction to Visual Media Programming', I made a si
 6. Game over & Game Clear Screen
     - There is a screen for both circumstances; game over, game clear. Game over happens when the HP hits 0. Game clear happens when the meter tracker on the top right hits 0m.
 
-
+![image](https://github.com/marivita126/VMP_FinalProject/assets/89694409/4dd92bbb-81b1-4dd6-9306-943f3296112c)
 
 ## Minor Features
 1. Sound FX
